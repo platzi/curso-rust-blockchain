@@ -1,0 +1,3 @@
+[submodule "rust-pong"]
+	path = rust-pong
+	url = https://github.com/HectorPulido/rust-pong

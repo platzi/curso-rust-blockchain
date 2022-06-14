@@ -1,5 +1,5 @@
 # Curso de Introducción al Desarrollo Blockchain con Rust
-Este es el repositorio de todos los proyectos del curso de Introducción al Desarrollo Blockchain con Rust de Platzi 💚 
+Este es el repositorio de todos los proyectos del [Curso Básico de Herramientas para Desarrollo Blockchain con Rust](https://platzi.com/cursos/rust-blockchain/) de Platzi 💚 
 
 <a href="https://github.com/HectorPulido">
 <img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
